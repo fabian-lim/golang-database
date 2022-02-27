@@ -1,0 +1,21 @@
+- logic to write data types
+- logic to write data to db
+- logic to create files
+- logic to write into files
+
+- logic to read single record from db
+- logic to read all records from db
+- logic to delete single record from db
+- logic to delete all records from db
+
+struct methods
+create a driver method:
+- read all
+- read
+- delete
+- delete all
+- write
+
+data integrity issues:
+write
+delete
